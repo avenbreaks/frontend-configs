@@ -1,0 +1,16 @@
+[
+
+	{
+		"title": "Entrophy Chain Mainnet",
+		"url": "https://entrophyscan.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/avenbreaks/frontend-configs/entrophy/configs/entrophyscan/newlogo-entr.svg"
+	},
+	{
+		"title": "Polygon Testnet Mumbai",
+		"url": "https://mumbai.polygonscan.com",
+		"group": "Testnets",
+		"icon": "https://mumbai.polygonscan.com/assets/poly/images/svg/logos/chain-light.svg?v=24.3.4.0",
+		"isActive": true
+	}
+]
